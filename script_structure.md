@@ -1,10 +1,16 @@
+### EXPLAIN DIFFERENT SHELLS
+
 # How to create a script?
- * First, you need to know how to create a script. A script file is nothing more than a text file before it is converted.
+ * Firstly, you need to know how to create a script. A script file is nothing more than a text file before it is converted.
  * So, we need to create a text file. You can do that simply by typing,
  ```
  $ touch scriptName 
  ```
- * If you create it with a .bash extension, your graphical interface can tell it's a bash script. 
+ * If you create it with a .sh extension, someone can tell it's a bash script. I recommend you to create it as,
+ ```
+ $ touch scriptName.sh
+ ```
+ * By this, anyone can tell this is a script file. But be carefull, bash is not the only shell exists.
 
 # Bash Script Structure
  * Bash scripts have 3 core components.
