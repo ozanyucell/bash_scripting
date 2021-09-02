@@ -28,4 +28,4 @@
 
 # Shebang (Sha-bang) Line
  * This is the line where we define our file as a bash script. If we type "#!/bin/bash" at the beginning of our script, our terminal will understand that this is a bash script.
- * If we typed "#!/usr/bin/python3" instead of "#!/bin/bash" our terminal would think it was a Python3 script. 
+ * If we typed "#!/usr/bin/python3" instead of "#!/bin/bash" our terminal would think it was a Python3 script.
