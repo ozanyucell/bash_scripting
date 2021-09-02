@@ -1,4 +1,4 @@
-### EXPLAIN DIFFERENT SHELLS
+### EXPLAIN DIFFERENT SHELLS | NANOYA REFERANS VEREBİLİRSİN
 
 # Working with scripts
 ### How to create a script file?
@@ -13,8 +13,13 @@
  ```
  * Now anyone can say this is a script file. However, keep in mind that bash is not the only shell.
  ### How to edit a script file?
- * 
- 
+ * You can edit your script file with your favorite text editor. I will be using nano. If you don't have one as your favorite, I recommend you to use nano as well.
+ ```
+ $ nano scriptName.sh
+ ```
+ * Now you are good to go!
+
+
 # Bash Script Structure
  * Bash scripts have 3 core components.
    * Shebang (Sha-bang) Line
