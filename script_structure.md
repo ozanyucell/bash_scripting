@@ -1,6 +1,7 @@
 ### EXPLAIN DIFFERENT SHELLS
 
-# How to create a script?
+# Working with scripts
+### How to create a script file?
  * Firstly, you need to know how to create a script. A script file is nothing more than a text file before it is converted.
  * So, we need to create a text file. You can do that simply by typing,
  ```
@@ -10,8 +11,10 @@
  ```
  $ touch scriptName.sh
  ```
- * By this, anyone can tell this is a script file. But be carefull, bash is not the only shell exists.
-
+ * Now anyone can say this is a script file. However, keep in mind that bash is not the only shell.
+ ### How to edit a script file?
+ * 
+ 
 # Bash Script Structure
  * Bash scripts have 3 core components.
    * Shebang (Sha-bang) Line
