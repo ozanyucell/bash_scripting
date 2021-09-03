@@ -42,8 +42,13 @@
 
  ```
  #!/bin/bash
- # This script is developed in 03/09/2021
+
+
+ # This script is developed in 03/09/2021.
+
+
  echo Hello World!
  exit 0
  ```
- * 
+
+ * Now our shell is going to ignore that information line. It is only visible in source code.
