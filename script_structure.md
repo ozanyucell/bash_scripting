@@ -42,7 +42,7 @@
 
    echo Hello World!
    ```
-   * It's that easy. Let's keep going. :)
+* It's that easy. Let's keep going. :)
 
 ### Exit Statement
  * 
