@@ -26,6 +26,16 @@
    * Bash Commands
    * Exit Statement
 
-# Shebang (Sha-bang) Line
+### Shebang (Sha-bang) Line
  * This is the line where we define our file as a bash script. If we type "#!/bin/bash" at the beginning of our script, our terminal will understand that this is a bash script.
  * If we typed "#!/usr/bin/python3" instead of "#!/bin/bash" our terminal would think it was a Python3 script.
+
+### Bash Commands
+ * 
+
+### Exit Statement
+ * 
+
+# Comment Lines
+ * We can add secret notes to our script file, which is ignored by our shell. These comment lines are only visible on source code. This is very useful for other developers or for the future you.
+ * To create a comment line, all we need to do is putting a **#** at the beginning of our line. 
