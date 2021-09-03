@@ -52,3 +52,22 @@
  ```
 
  * Now our shell is going to ignore that information line. It is only visible in source code.
+
+ * To make it look more professional, you can edit it like this: 
+
+  ```
+  #!/bin/bash
+
+  # 1) Author: Ozan Yücel
+  # 2) Created: 03/09/2021
+  # 3) Last Modified: 03/09/2021
+
+  # 4) Description:
+  # Prints "Hello World!" on your terminal.
+
+  # 5) Usage:
+  # "You can fill here with additional information or things to consider when using the program."
+
+  echo Hello World!
+  exit 0
+  ```
