@@ -38,4 +38,12 @@
 
 # Comment Lines
  * We can add secret notes to our script file, which is ignored by our shell. These comment lines are only visible on source code. This is very useful for other developers or for the future you.
- * To create a comment line, all we need to do is putting a **#** at the beginning of our line. 
+ * To create a comment line, all we need to do is putting a **#** at the beginning of our line.
+
+ ```
+ #!/bin/bash
+ # This script is developed in 03/09/2021
+ echo Hello World!
+ exit 0
+ ```
+ * 
