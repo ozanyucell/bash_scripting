@@ -44,7 +44,7 @@
  #!/bin/bash
 
 
- # This script is developed in 03/09/2021.
+ # This script was developed in 03/09/2021.
 
 
  echo Hello World!
