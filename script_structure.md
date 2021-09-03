@@ -29,9 +29,20 @@
 ### Shebang (Sha-bang) Line
  * This is the line where we define our file as a bash script. If we type "#!/bin/bash" at the beginning of our script, our terminal will understand that this is a bash script.
  * If we typed "#!/usr/bin/python3" instead of "#!/bin/bash" our terminal would think it was a Python3 script.
+ * After typing this into your file, you can check with the command:
+  ```
+  $ file scriptName.sh
+  ```
+ * This command will return information about your file. If you typed "#!/bin/bash" at the beginning, terminal is going to tell you that this is a "Bourne Again shell script".
 
 ### Bash Commands
- * 
+ * This is the area that we type our commands. For a quick example, I will take the echo command.
+   ```
+   #!/bin/bash
+
+   echo Hello World!
+   ```
+   * It's that easy. Let's keep going. :)
 
 ### Exit Statement
  * 
